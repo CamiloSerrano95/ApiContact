@@ -27,5 +27,5 @@ async function Save(req, res) {
 
 module.exports = {
     getAll,
-    save
+    Save
 }
