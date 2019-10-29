@@ -13,7 +13,7 @@
     "fs-router": "^0.4.1",
     "micro": "^9.3.3",
     "micro-cors": "^0.1.1",
-    "mongoose": "^5.3.4"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "micro-dev": "^3.0.0"
